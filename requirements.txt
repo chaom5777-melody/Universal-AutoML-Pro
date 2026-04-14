@@ -1,0 +1,8 @@
+pandas
+gradio
+flaml
+matplotlib
+seaborn
+Pillow
+joblib
+scikit-learn

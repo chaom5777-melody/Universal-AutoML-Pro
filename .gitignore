@@ -1,0 +1,11 @@
+# 忽略 Python 缓存
+__pycache__/
+*.py[cod]
+
+# 忽略本地生成的模型和报告
+automl_model.pkl
+模型技术名片.md
+
+# 忽略虚拟环境
+venv/
+.venv/
